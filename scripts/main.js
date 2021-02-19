@@ -2,7 +2,7 @@ const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
 const btn = document.querySelector('button');
 const p = document.querySelector('p');
-let totalBalls = 300;
+let totalBalls = 20;
 let total = totalBalls;
 
 let btnClass = btn.className;
